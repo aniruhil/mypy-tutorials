@@ -10,4 +10,4 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
-    
+    - xlrd
